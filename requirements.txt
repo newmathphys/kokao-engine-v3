@@ -1,0 +1,11 @@
+# KOKAO Engine v3.0.4 - Requirements
+# Core dependencies for running KOKAO Engine
+
+# Numerical computing
+numpy>=1.21.0
+
+# Data manipulation
+pandas>=1.3.0
+
+# Machine learning utilities
+scikit-learn>=1.0.0

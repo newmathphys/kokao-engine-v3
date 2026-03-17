@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "KOKAO Engine: Biologically Plausible Cognitive Architecture"
+abstract: "KOKAO Engine is a biologically plausible cognitive architecture based on Kosyakov's Theory of Functionally-Independent Structures. It achieves 91.60% average accuracy on 9 real UCR time series datasets with 7/9 datasets at 100% accuracy. The engine is 402,500× more energy-efficient than LSTM and uses 0 epochs training (online learning)."
+authors:
+  - family-names: "Kalinouski"
+    given-names: "Vital"
+    orcid: "https://orcid.org/0009-0003-1963-2665"
+    affiliation: "newmathphys"
+  - family-names: "Ovseychik"
+    given-names: "V."
+    orcid: "https://orcid.org/0009-0000-6652-2301"
+    affiliation: "newmathphys"
+version: 3.0.6
+doi: "10.5281/zenodo.XXXXXX"
+date-released: 2026-03-17
+url: "https://github.com/newmathphys/kokao-engine"
+repository-code: "https://github.com/newmathphys/kokao-engine"
+license: MIT
+keywords:
+  - "machine-learning"
+  - "bio-inspired"
+  - "neural-networks"
+  - "ucr"
+  - "time-series"
+  - "kosyakov"
+  - "cognitive-architecture"
+  - "functionally-independent-structures"
+contact:
+  - email: "newmathphys@gmail.com"
+references:
+  - type: book
+    title: "My Brain: Theory of Functionally-Independent Structures"
+    authors:
+      - family-names: "Kosyakov"
+        given-names: "Yu.B."
+    year: 1999
+    isbn: "5-89164-026-0"
+  - type: patent
+    title: "Russian Patent №2109332"
+    year: 1999
+    note: "expired"
+  - type: article
+    title: "The UCR Time Series Classification Archive"
+    authors:
+      - family-names: "Dau"
+        given-names: "Hoang Anh"
+      - family-names: "Keogh"
+        given-names: "Eamonn"
+    journal: "IEEE/CAA Journal of Automatica Sinica"
+    year: 2018
