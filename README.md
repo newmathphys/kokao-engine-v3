@@ -1,4 +1,4 @@
-# 🏆 KOKAO Engine v3.0.6
+# 🏆 KOKAO Engine v3.0.0
 
 **Biologically Plausible Cognitive Architecture based on Kosyakov's Theory of Functionally-Independent Structures**
 
